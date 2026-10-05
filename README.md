@@ -1,4 +1,4 @@
-# 👋 Hola, soy Diego Ardila
+# 👋 Soy Diego Ardila
 
 ## Backend Developer | Java | Spring Boot | Node.js | DevOps
 
