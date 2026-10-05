@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hola, soy Diego Ardila 👋
 
-<!--
-**diegoardilas2486/diegoardilas2486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador de software y estudiante de Ingeniería de Sistemas enfocado en crear soluciones eficientes. Me apasiona el aprendizaje continuo, explorando desde arquitecturas de bases de datos y desarrollo backend hasta modelos mentales de DevOps y automatización.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías y Herramientas
+- **Lenguajes:** JavaScript, Java, C#, SQL
+- **Backend & Entornos:** Node.js, Express
+- **Bases de Datos:** MongoDB, SQL
+- **Herramientas & SO:** pnpm, PowerShell, macOS, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Lo que estoy haciendo actualmente
+- 🎓 Cursando materias de Ingeniería de Sistemas y Desarrollo de Software.
+- 💻 Desarrollando proyectos académicos y APIs, como `backend-biblioteca` y servicios en C# e interfaces en HTML.
+- 🧠 Explorando Prompt Engineering, despliegue en la nube y estructuración de bases de datos.
+
+### 📊 Estadísticas de GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diegoardilas2486&show_icons=true&theme=tokyonight" alt="Estadísticas de Diego" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoardilas2486&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+</div>
+
+### 📫 Cómo contactarme
+- **LinkedIn:** https://www.linkedin.com/in/diegoardilas/
