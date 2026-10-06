@@ -80,11 +80,6 @@ sucursales.
 ## 📈 Actualmente aprendiendo
 
 ```text
-Java
- └── Spring Boot
-      ├── REST APIs
-      ├── Microservices
-      └── Security
 
 DevOps
  ├── Linux
